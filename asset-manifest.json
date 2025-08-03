@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/syria-store/static/css/main.26a0883b.css",
+    "main.js": "/syria-store/static/js/main.f31c3ca1.js",
+    "static/media/a.jpg": "/syria-store/static/media/a.8d4e3853366608022829.jpg",
+    "static/media/noProduct.png": "/syria-store/static/media/noProduct.862e944b2251ac39c974.png",
+    "static/media/Serums2.jpg": "/syria-store/static/media/Serums2.9c6c24038ae034573ecb.jpg",
+    "static/media/aaa.jpg": "/syria-store/static/media/aaa.33d2e1f7e8964a7fd7c9.jpg",
+    "index.html": "/syria-store/index.html",
+    "main.26a0883b.css.map": "/syria-store/static/css/main.26a0883b.css.map",
+    "main.f31c3ca1.js.map": "/syria-store/static/js/main.f31c3ca1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26a0883b.css",
+    "static/js/main.f31c3ca1.js"
+  ]
+}
