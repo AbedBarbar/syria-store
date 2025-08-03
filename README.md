@@ -1,4 +1,4 @@
-# 🛍️ Syira store  Web App
+# 🛍️ Syria store  Web App
 This is my first React-based e-commerce application. It includes four main product categories, user authentication, and an admin dashboard for managing users and products.
 
 
