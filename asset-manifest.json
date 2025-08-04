@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/syria-store/static/css/main.26a0883b.css",
-    "main.js": "/syria-store/static/js/main.135985c4.js",
+    "main.css": "/syria-store/static/css/main.57a2eab4.css",
+    "main.js": "/syria-store/static/js/main.4087aebd.js",
     "static/media/a.jpg": "/syria-store/static/media/a.8d4e3853366608022829.jpg",
     "static/media/noProduct.png": "/syria-store/static/media/noProduct.862e944b2251ac39c974.png",
     "static/media/Serums2.jpg": "/syria-store/static/media/Serums2.9c6c24038ae034573ecb.jpg",
     "static/media/aaa.jpg": "/syria-store/static/media/aaa.33d2e1f7e8964a7fd7c9.jpg",
     "index.html": "/syria-store/index.html",
-    "main.26a0883b.css.map": "/syria-store/static/css/main.26a0883b.css.map",
-    "main.135985c4.js.map": "/syria-store/static/js/main.135985c4.js.map"
+    "main.57a2eab4.css.map": "/syria-store/static/css/main.57a2eab4.css.map",
+    "main.4087aebd.js.map": "/syria-store/static/js/main.4087aebd.js.map"
   },
   "entrypoints": [
-    "static/css/main.26a0883b.css",
-    "static/js/main.135985c4.js"
+    "static/css/main.57a2eab4.css",
+    "static/js/main.4087aebd.js"
   ]
 }
